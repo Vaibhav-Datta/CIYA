@@ -32,9 +32,14 @@ Developed by Mr. Vaibhav Datta CIYA is a passion project aimed at making voice i
 CIYA is not open source and is not permitted for public use, redistribution, or modification. This project is a private build and intended solely for personal experimentation and development by the creator.
 
 ## 🗂️ File Structure
-ciya.py           # Main assistant script
-memory.txt        # Stores remembered data (auto-created)
-README.md         # Project documentation
+
+ciya.py # Main assistant script
+
+memory.txt # Stores remembered data (auto-created)
+
+CT_widget.py # A small widget (window) that can be used to activate CIYA from outside the code editor.
+
+README.md # Project documentation
 
 ## 🚀 Getting Started
 
