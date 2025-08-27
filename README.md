@@ -28,6 +28,9 @@ It uses a simple dictionary-based memory system to store and retrieve custom dat
 🙋‍♂️ Creator
 Developed by Mr. Vaibhav Datta CIYA is a passion project aimed at making voice interaction more personal and customizable.
 
+🚫 License & Usage
+CIYA is not open source and is not permitted for public use, redistribution, or modification. This project is a private build and intended solely for personal experimentation and development by the creator.
+
 🗂️ File Structure
 ciya.py           # Main assistant script
 memory.txt        # Stores remembered data (auto-created)
@@ -41,4 +44,5 @@ README.md         # Project documentation
 
 ```bash
 pip install SpeechRecognition gTTS playsound wikipedia pyaudio
+
 
